@@ -10,7 +10,7 @@ tags: Java EffectiveJava
 summary
 ```
 #private 생성자
-- 객체를 만들 필요가 없는 클래스(ex. java.lang.Math, java.util.Collections) 는 생성자를 private 으로 만든다.
+- 객체를 만들 필요가 없는 클래스(ex. java.lang.Math, java.util.Collections 와 같은 유틸클래스) 는 생성자를 private 으로 만든다.
 ```
 
 
